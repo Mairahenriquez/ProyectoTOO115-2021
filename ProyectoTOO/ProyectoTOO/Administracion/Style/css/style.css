@@ -59,6 +59,7 @@ table {
     border: 10px;
     border: gray;
     width: 80%;
+    padding-top:30px;
 }
 
 tr {
@@ -87,4 +88,22 @@ td {
     text-align: center;
     margin-right: auto;
     margin-left: auto;
+}
+
+.sesion{
+    width:90%;
+}
+
+.Botonsesi {
+    background-image: url('../Imagenes/cerrar-sesion3.png');
+    width: 44px;
+    height: 44px;
+    border-radius: 4px;
+    margin-left: 100%;
+}
+.Botonsesi:hover {
+    background-image: url('../Imagenes/cerrar-sesion3.jpg');
+    width: 54px;
+    height: 54px;
+    border-radius: 4px;
 }

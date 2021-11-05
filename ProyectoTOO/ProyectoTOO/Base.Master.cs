@@ -13,5 +13,10 @@ namespace ProyectoTOO
         {
 
         }
+        protected void CerrarSesi_Click(object sender, EventArgs e)
+        {
+            Session.Clear();
+            Response.Redirect("Login.aspx");
+        }
     }
 }

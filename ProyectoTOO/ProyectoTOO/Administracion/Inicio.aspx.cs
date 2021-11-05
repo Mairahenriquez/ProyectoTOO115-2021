@@ -11,6 +11,7 @@ namespace ProyectoTOO.Administracion
 {
     public partial class Inicio : System.Web.UI.Page
     {
+
         protected void Page_Load(object sender, EventArgs e)
         {
             if (Session["Login"] == null)

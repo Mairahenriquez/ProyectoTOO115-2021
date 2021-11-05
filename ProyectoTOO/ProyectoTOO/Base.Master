@@ -51,7 +51,10 @@
                     </div>
                 </div>
 
-                <div class="container tm-features-section" id="features"> 
+                <div class="container tm-features-section" id="features">
+                    <div class="sesion">
+                    <asp:Button CssClass="Botonsesi" ID="CerrarSesi" runat="server" Text="" OnClick="CerrarSesi_Click" />
+                    </div>
                     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                     </asp:ContentPlaceHolder>
                 </div>

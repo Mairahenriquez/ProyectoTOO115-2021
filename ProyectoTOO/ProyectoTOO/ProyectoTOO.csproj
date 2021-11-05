@@ -76,6 +76,12 @@
     <Content Include="Administracion\Style\css\style.css" />
     <Content Include="Administracion\Style\css\StyleSheet1.css" />
     <Content Include="Administracion\Style\css\tooplate-style.css" />
+    <Content Include="Administracion\Style\Imagenes\cerrar-sesion.jpg" />
+    <Content Include="Administracion\Style\Imagenes\cerrar-sesion2.jpg" />
+    <Content Include="Administracion\Style\Imagenes\cerrar-sesion3.jpg" />
+    <Content Include="Administracion\Style\Imagenes\cerrar-sesion3.png" />
+    <Content Include="Administracion\Style\Imagenes\cerrar-sesion4.png" />
+    <Content Include="Administracion\Style\Imagenes\cerrar-sesion5.jpg" />
     <Content Include="Administracion\Style\Imagenes\Eliminar.png" />
     <Content Include="Administracion\Style\Imagenes\Flecha.png" />
     <Content Include="Administracion\Style\Imagenes\Fon4.png" />
