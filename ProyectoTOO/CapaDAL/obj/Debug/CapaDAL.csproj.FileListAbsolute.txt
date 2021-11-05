@@ -1,0 +1,8 @@
+C:\Proyectos Visual Studio\ProyectoTOO\CapaDAL\bin\Debug\CapaDAL.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaDAL\bin\Debug\CapaDAL.pdb
+C:\Proyectos Visual Studio\ProyectoTOO\CapaDAL\bin\Debug\CapaEntidad.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaDAL\bin\Debug\CapaEntidad.pdb
+C:\Proyectos Visual Studio\ProyectoTOO\CapaDAL\obj\Debug\CapaDAL.csproj.AssemblyReference.cache
+C:\Proyectos Visual Studio\ProyectoTOO\CapaDAL\obj\Debug\CapaDAL.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\ProyectoTOO\CapaDAL\obj\Debug\CapaDAL.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaDAL\obj\Debug\CapaDAL.pdb

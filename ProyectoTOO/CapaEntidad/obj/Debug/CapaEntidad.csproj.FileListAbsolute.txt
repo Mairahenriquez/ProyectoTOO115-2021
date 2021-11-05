@@ -1,0 +1,6 @@
+C:\Proyectos Visual Studio\ProyectoTOO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Proyectos Visual Studio\ProyectoTOO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Proyectos Visual Studio\ProyectoTOO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\ProyectoTOO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaEntidad\obj\Debug\CapaEntidad.pdb

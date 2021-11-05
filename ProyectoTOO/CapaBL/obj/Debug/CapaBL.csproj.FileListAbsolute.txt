@@ -1,0 +1,11 @@
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\bin\Debug\CapaBL.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\bin\Debug\CapaBL.pdb
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\bin\Debug\CapaDAL.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\bin\Debug\CapaEntidad.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\bin\Debug\CapaDAL.pdb
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\bin\Debug\CapaEntidad.pdb
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\obj\Debug\CapaBL.csproj.AssemblyReference.cache
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\obj\Debug\CapaBL.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\obj\Debug\CapaBL.csproj.CopyComplete
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\obj\Debug\CapaBL.dll
+C:\Proyectos Visual Studio\ProyectoTOO\CapaBL\obj\Debug\CapaBL.pdb
