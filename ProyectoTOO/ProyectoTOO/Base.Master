@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Base.master.cs" Inherits="ProyectoTOO.Base" %>
+
+<!DOCTYPE html>
+<html  xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>
+            <asp:ContentPlaceHolder ID="Titulo" runat="server">
+            </asp:ContentPlaceHolder>
+        </title>
+        <link href="Administracion/Style/css/css.css" rel="stylesheet" />
+        <link href="Administracion/Style/css/style.css" rel="stylesheet" />
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+
+    <body>
+        <form id="form1" runat="server">
+            <div class="body">
+    	        <div class="container" id="home">
+                    <div class="col-12 text-center">
+                        <div class="tm-page-header">
+                            <h1 class="d-inline-block text-uppercase">Sistema de Seguridad para la empresa de Recursos Humanos.</h1>
+                        </div>
+                    </div>
+                </div> 
+                <div class="tm-nav-section">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <nav class="navbar navbar-expand-md navbar-light">
+                                    <div class="collapse navbar-collapse" id="tmMainNav">
+                                        <ul class="navbar-nav mx-auto tm-navbar-nav">
+                                            <li class="nav-item active">
+                                                <a class="nav-link" href="Inicio.aspx">Inicio</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="Empresa.aspx">Informacion de la empresa</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="Empleados.aspx">Empleados</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link external" href="ListaUsuarios.aspx">Usuarios</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container tm-features-section" id="features"> 
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+
+                <footer class="container tm-footer">
+                    <div class="row tm-footer-row">
+                        <p class="col-md-10 col-sm-12 mb-0">
+                            Proyecto de Tecnologías Orientadas a Objetos 2021.
+                        </p>
+                    </div>
+                </footer>
+            </div>
+        </form>
+    </body>
+</html>

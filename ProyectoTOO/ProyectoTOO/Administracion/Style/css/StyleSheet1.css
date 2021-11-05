@@ -1,0 +1,33 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.Listas {
+    font-family: 'Palatino Linotype';
+    font-size: 15px;
+    overflow: auto;
+    margin-top:50px;
+}
+
+.Listas div table {
+    width: auto;
+    margin: auto;
+    border: 3px #fa4a4a solid;
+    max-width: initial;
+    background-color: lightgray;
+    font-family: 'Palatino Linotype';
+}
+
+.Listas div table th {
+    height: 30px;
+    text-align: center;
+    border: 3px #fa4a4a solid;
+    font-family: 'Palatino Linotype';
+    font-size: 15px;
+}
+
+.Listas div table tr {
+    height: 20px;
+    text-align: center;
+    font-family: 'Palatino Linotype';
+}
+

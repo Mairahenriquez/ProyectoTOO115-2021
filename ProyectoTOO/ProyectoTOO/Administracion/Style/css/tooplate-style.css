@@ -1,0 +1,114 @@
+﻿
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    color: #626262;
+    overflow-x: hidden;
+}
+
+.tm-page-header {
+    color: #444444;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.tm-nav-section {
+    margin: auto;
+    width: 100%;
+    border-top: 1px solid #909090;
+    border-bottom: 1px solid #909090;
+    background-color: aliceblue;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #313131;
+    text-decoration: none;
+}
+
+#tmMainNav .nav-link.current,
+#tmMainNav .nav-link:hover {
+    color: #0662b9;
+    text-decoration: none;
+    font-size: 25px;
+    width: 100%;
+    height: 100%;
+}
+
+.tm-navbar-nav {
+    font-size: 1.3rem;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.tm-features-section {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    width: 80%;
+    margin: auto;
+}
+.Conten {
+    width: 60%;
+    border: 3px solid;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    margin: auto;
+    text-align: center;
+}
+
+form {
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+form input[type="text"], form input[type="password"] {
+    display: block;
+    border-radius: 10px;
+}
+
+.label {
+    display: block;
+    margin-top: 5px;
+}
+
+.input {
+    margin-top: 5px;
+    width: 100%;
+    border-radius: 4px;
+    height: 30px;
+}
+
+.Button {
+    display: block;
+    margin-top: 30px;
+    background: cornflowerblue;
+    width: 100%;
+    height: 40px;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    color: #626262;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.Button:hover {
+    display: block;
+    margin-top: 30px;
+    width: 100%;
+    background: gainsboro;
+    height: 40px;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    color: #626262;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size:16px;
+}
